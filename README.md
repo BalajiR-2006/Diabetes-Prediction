@@ -27,7 +27,7 @@ The dataset contains various medical parameters such as:
 - Random Forest  
 - Support Vector Machine (SVM)  
 - XGBoost (Gradient Boosting)  
-- MLP (ANN)
+- MLP 
 
 ## 🔍 Model Evaluation
 
@@ -41,7 +41,7 @@ All models were evaluated using accuracy and standard deviation via cross-valida
 | Random Forest          | 97.93        | ±1.12    |
 | SVM                    | 95.54        | ±1.02    |
 | XGBoost                | 95.29        | ±2.32    |
-| MLP (ANN)              | 97.04        | ±1.40    |
+| MLP            | 97.04        | ±1.40    |
 
 ## 🛠️ Hyperparameter Tuning
 
